@@ -1,0 +1,31 @@
+.form{
+    border: solid 1px black;
+    padding: 30px;
+    border-radius: 10px;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    width: 30%;
+    background: lightgrey;
+}
+
+.form_control{
+    border-radius: 5px;
+}
+
+button{
+    margin-left: 130px;
+}
+
+label{
+    padding-top: 10px;
+}
+
+.vl{
+    border-left: 2px solid black;
+  height: 550px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 110px;
+}
